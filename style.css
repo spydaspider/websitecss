@@ -2,3 +2,9 @@
      position:relative;
 
 }
+
+@Media (max-width:500px ){
+     body{
+          flex-wrap: wrap;
+     }
+}
